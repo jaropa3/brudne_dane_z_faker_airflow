@@ -1,0 +1,13 @@
+pandas
+SQLAlchemy
+pytest
+numpy
+pyarrow
+pyyaml
+openpyxl
+psycopg2-binary
+python-dotenv
+faker
+chardet
+apache-airflow
+pendulum

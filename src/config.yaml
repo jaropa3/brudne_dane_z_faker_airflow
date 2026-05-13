@@ -1,0 +1,14 @@
+database:
+  host: localhost
+  port: 5432
+  DB_name: postgres
+
+paths:
+  raw_data: data/raw_data
+  quarantine: logs/
+files:
+  customers: customers.csv
+  orders: orders.csv
+  products: products.csv
+output:
+  report_name: raport_rekordow_odrzuconych

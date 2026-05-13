@@ -1,0 +1,4 @@
+from pathlib import Path
+
+base_path = Path(__file__).resolve().parent
+PATH_FOLDER = base_path.parent / "data" / "raw"
